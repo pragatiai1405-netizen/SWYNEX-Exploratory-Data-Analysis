@@ -38,9 +38,9 @@ The following analyses were performed:
 
 The Excel analysis workbook is provided below:
 
-**File:** `SWYNEX_Task_2_EDA(1).xlsb`
+**File:** SWYNEX_Task_2_EDA(1).xlsx
 
-[View Excel Analysis Workbook](./SWYNEX_Task_2_EDA%281%29.xlsb)
+[View Excel Analysis Workbook](./SWYNEX_Task_2_EDA%281%29.xlsx)
 
 ## Conclusion
 
